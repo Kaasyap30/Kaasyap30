@@ -5,10 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms 📚**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kode.kazyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kode.kazyap" height="30" width="40" /></a>
-</p>
+
 
 
 
