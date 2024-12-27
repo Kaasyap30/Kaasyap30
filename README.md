@@ -1,4 +1,4 @@
-# 💫 Hello World!:
+# 💫 Hello World!
 <br>- 🔭 I’m currently working on [Varise](https://varise.in/)<br><br>- 🌱 I’m currently learning **Data Structures & Algorithms 📚**
 
 
